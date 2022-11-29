@@ -1,0 +1,27 @@
+.Button {
+  color: var(--violet-primary);
+  padding: 10px 5px;
+  border-radius: 15px;
+  font-weight: 500;
+}
+
+.outlined {
+  border: 1px solid var(--violet-primary);
+}
+
+.background {
+  background-color: var(--violet-primary);
+  color: #fff;
+}
+
+.size_m {
+  font: var(--font-m);
+}
+
+.size_l {
+  font: var(--font-l);
+}
+
+.size_xl {
+  font: var(--font-xl);
+}
